@@ -1,3 +1,4 @@
+nbdenv/
 .jekyll-cache/
 Gemfile.lock  
 *.bak
